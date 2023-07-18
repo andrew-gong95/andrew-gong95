@@ -1,0 +1,41 @@
+h1 {
+	
+  font-weight: bold;
+    color: #6800A4;
+    border-left: 1px solid #6800A4;
+    border-right: 1px solid #6800A4;
+    border-bottom: 7px solid #6800A4;
+    border-top: 1px solid #6800A4;
+    background-image: inherit;
+	
+}
+ img {
+    display: inline-block;
+    margin-left: auto;
+    float: right;
+   }
+h2 {
+    font-weight: bold;
+  
+}
+body {
+    padding-left: 0in;
+    font-family: Monospace, Monaco;
+	
+  background-image: url("paper.jpg");
+
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    padding-left: 100px;
+}

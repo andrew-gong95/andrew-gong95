@@ -1,0 +1,11 @@
+<div class="row">
+<div class="column">
+<img src="Store.jpg" alt="Store" style="width:100%">
+</div>
+<div class="column">
+<img src="Pizza.jpg" alt="Pizza" style="width:100%">
+</div>
+<div class="column">
+<img src="Van.jpg" alt="Van" style="width:100%">
+</div>
+</div>
